@@ -1,0 +1,6 @@
+{
+  "name": "Fire Strike",
+  "description": "Action-packed Free Fire style Battle Royale with Bermuda map drops, Gloo Walls, character abilities, weapon armory, Clash Squad, and Booyah victories!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
